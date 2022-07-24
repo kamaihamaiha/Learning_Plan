@@ -13,4 +13,4 @@
 - IDEA
 - CLion
 - Visual Studio
-- VS Code
+- [VS Code](./vscode/readme.md)
