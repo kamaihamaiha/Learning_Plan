@@ -12,5 +12,6 @@
 - Android Studio
 - IDEA
 - CLion
-- Visual Studio
+- [Visual Studio](./visual_studio/readme.md)
 - [VS Code](./vscode/readme.md)
+

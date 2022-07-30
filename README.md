@@ -4,7 +4,7 @@
 
 - [基础知识体系](./basic/readme.md)
 - [Android 体系](android_sys/readme.md)
-- [音视频体系](./dev_av/audio_video_dev.md)
+- [音视频体系](../Codes/audio_video_dev_codes/README.md)
 - [开发语言类体系](./dev_language/readme.md)
 - [开发工具类汇总](./dev_tools/readme.md)
 
@@ -18,8 +18,6 @@
 
 7 月 24日 - 7月 31日
 
-
-
 - C 语言
 - 计算机网路
 - 自定义 view
@@ -28,6 +26,7 @@
 - Opencv
   - 车辆检测
 - C++
+- [音视频](./dev_av/audio_video_dev.md)
 
 
 
